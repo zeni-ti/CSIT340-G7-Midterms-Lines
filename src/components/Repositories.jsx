@@ -56,6 +56,6 @@ function Repositories() {
           </div>
         </div>
       </main>
-    )
+    );
 }
 export default Repositories;
